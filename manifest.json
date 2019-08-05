@@ -1,0 +1,14 @@
+{
+  "name": "Reset Article Limit",
+  "version": "1.0",
+  "description": "Resets your monthly free article limit for specific media sites by removing browser data associated with those sites.",
+  "manifest_version": 2,
+  "permissions": ["browsingData", "activeTab"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_icon": "icons8-hand-wash-50.png"
+  }
+}
