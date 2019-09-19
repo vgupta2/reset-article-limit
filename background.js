@@ -18,7 +18,11 @@ chrome.browserAction.onClicked.addListener(function(tab) {
       "https://www.vanityfair.com",
       "https://vanityfair.com",
       "https://vulture.com",
-      "https://www.vultue.com"
+      "https://www.vulture.com",
+      "https://theatlantic.com",
+      "https://www.theatlantic.com",
+      "https://nymag.com",
+      "https://www.nymag.com"
     ]}, {
       "appcache" :true,
       "cache": true,

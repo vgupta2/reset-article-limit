@@ -1,6 +1,6 @@
 {
   "name": "Reset Article Limit",
-  "version": "1.0",
+  "version": "20190910.01",
   "description": "Resets your monthly free article limit for specific media sites by removing browser data associated with those sites.",
   "manifest_version": 2,
   "permissions": ["browsingData", "activeTab"],
